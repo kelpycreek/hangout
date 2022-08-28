@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/hangout/static/css/main.e6c13ad2.css",
-    "main.js": "/hangout/static/js/main.5d1714a7.js",
+    "main.js": "/hangout/static/js/main.fc5ae480.js",
     "index.html": "/hangout/index.html",
     "main.e6c13ad2.css.map": "/hangout/static/css/main.e6c13ad2.css.map",
-    "main.5d1714a7.js.map": "/hangout/static/js/main.5d1714a7.js.map"
+    "main.fc5ae480.js.map": "/hangout/static/js/main.fc5ae480.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.5d1714a7.js"
+    "static/js/main.fc5ae480.js"
   ]
 }

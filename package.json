@@ -1,5 +1,6 @@
 {
   "name": "date",
+  "homepage": "https://kelpycreek.github.io/hangout/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

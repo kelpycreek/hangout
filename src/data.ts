@@ -42,6 +42,12 @@ export const TEMPLATE =
 
 export const DATES = [
 {
+    title: "Macbeth in the park - untill Sep 4",
+    description: "Shakespeare in the park! [http://www.iscla.org/2022-calendar](http://www.iscla.org/2022-calendar)",
+    tags: ["outside"],
+    date: new Date("September 4, 2022")
+},
+{
     title: "Coffee Date",
     description: "Sometimes the best way to date is to keep it short. A quick 15-30 minute coffee date will let us know if we like each other quickly, and then we can figure out where to go from there.",
     tags: ["inside", "outside"]

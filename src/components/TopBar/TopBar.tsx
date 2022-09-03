@@ -16,6 +16,7 @@ function TopBar () {
       <Toolbar sx={{backgroundColor: '#34CF60'}}>
         <Box sx={{marginLeft: 'auto', marginRight: 'auto'}}>
           <PageButton href="/">Dates</PageButton>
+          <PageButton href="/calendar">Calendar</PageButton>
           {/* <PageButton href="/faq">FAQ</PageButton> */}
         </Box>
       </Toolbar>
